@@ -1,0 +1,15 @@
+[submodule "pack/preservim/start/nerdtree"]
+	path = pack/preservim/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "pack/preservim/start/tagbar"]
+	path = pack/preservim/start/tagbar
+	url = https://github.com/preservim/tagbar
+[submodule "pack/tpope/start/vim-fugitive"]
+	path = pack/tpope/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/themes/start/solarized"]
+	path = pack/themes/start/solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "pack/themes/start/vividchalk"]
+	path = pack/themes/start/vividchalk
+	url = https://github.com/tpope/vim-vividchalk
