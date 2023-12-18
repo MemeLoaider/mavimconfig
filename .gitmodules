@@ -19,3 +19,6 @@
 [submodule "pack/plugins/start/vim-flake8"]
 	path = pack/plugins/start/vim-flake8
 	url = https://github.com/nvie/vim-flake8.git
+[submodule "pack/plugins/start/ale"]
+	path = pack/plugins/start/ale
+	url = https://github.com/dense-analysis/ale.git
