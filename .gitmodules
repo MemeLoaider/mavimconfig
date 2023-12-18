@@ -16,3 +16,6 @@
 [submodule "pack/plugins/start/lightline.vim"]
 	path = pack/plugins/start/lightline.vim
 	url = https://github.com/itchyny/lightline.vim
+[submodule "pack/plugins/start/vim-flake8"]
+	path = pack/plugins/start/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
