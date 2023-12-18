@@ -13,16 +13,16 @@ syntax on
 
 " ======== Plugin initing ========
 " Themes initing
-packadd! vividchalk 
-colorscheme vividchalk
+"packadd! vividchalk 
+"colorscheme vividchalk
 
 " For solarized
-"packadd! solarized
-"set background=dark
-"let g:solarized_termcolors=256
-"let g:solarized_contrast="high"
-"let g:solarized_visibility="high"
-"colorscheme solarized 
+packadd! solarized
+set background=dark
+let g:solarized_termcolors=256
+let g:solarized_contrast="high"
+let g:solarized_visibility="high"
+colorscheme solarized 
 
 " Fugitive initing
 packadd! vim-fugitive
@@ -37,6 +37,8 @@ packadd! tagbar
 packadd! nerdtree
 :nnoremap <F7> :NERDTreeToggle<cr>
 
+" Ligntline initing
+packadd! lightline.vim
 
 " ======== Normal Remaps ======== "
 :nnoremap <leader>d dd

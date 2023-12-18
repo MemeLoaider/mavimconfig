@@ -13,3 +13,6 @@
 [submodule "pack/themes/start/vividchalk"]
 	path = pack/themes/start/vividchalk
 	url = https://github.com/tpope/vim-vividchalk
+[submodule "pack/plugins/start/lightline.vim"]
+	path = pack/plugins/start/lightline.vim
+	url = https://github.com/itchyny/lightline.vim
