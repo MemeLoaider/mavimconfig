@@ -35,10 +35,13 @@ packadd! tagbar
 
 " Nerdtree initing
 packadd! nerdtree
-:nnoremap <F7> :NERDTreeToggle<cr>
+:nnoremap <F6> :NERDTreeToggle<cr>
 
 " Ligntline initing
 packadd! lightline.vim
+
+" FZF initing
+set rtp+=/opt/homebrew/opt/fzf
 
 " ======== Normal Remaps ======== "
 :nnoremap <leader>d dd
